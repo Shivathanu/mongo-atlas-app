@@ -1,0 +1,9 @@
+{
+    "app_id": "application-1-pnvcr",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
