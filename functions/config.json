@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "getSum",
+        "private": false,
+        "disable_arg_logs": false
+    }
+]
